@@ -1,1 +1,3 @@
-lsdafjlk
+<?php
+	echo "Hello World";
+?>
