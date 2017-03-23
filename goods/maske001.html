@@ -7,7 +7,7 @@
 <head>
 	<meta charset="utf-8">
 	
-	<title>Vintage Template</title>
+	<title id="htmlTitle"></title>
 	<meta name="description" content="">
 	
 	<!-- Mobile viewport optimized: h5bp.com/viewport -->
@@ -31,7 +31,7 @@
 			var iLen = param.length;    //获取你的参数名称长度
 			var iStart = query.indexOf(param);  //获取该参数名称的 索引
 			if (iStart == -1) {
-				return "";
+				return "商品";
 			}
 
 			iStart += iLen + 1;
@@ -44,8 +44,9 @@
 
 		function init() {
 			var param = getParameter("id");
-			document.getElementById("noId").innerHTML = param;
-//            alert(param)
+			var deparam = decodeURI(param)
+			document.getElementById("noId").innerHTML = deparam;
+			document.getElementById("htmlTitle").innerHTML = deparam;
 		}
 	</script>
 </head>
@@ -109,10 +110,10 @@
                         <script>
 
                         </script>
-                        <img src="../img/goods/beautiful/totesMeerMaske-001.png" alt="Thumbnail" />
+                        <img src="../img/goods/maske-totesmeer/001.png" alt="Thumbnail" />
                         <p></p>
                         <br/>
-                        <img src="../img/goods/beautiful/totesMeerMaske-002.png" alt="Thumbnail" />
+                        <img src="../img/goods/maske-totesmeer/002.png" alt="Thumbnail" />
 						<div class="entry-date"><div class="month">Nr.</div><div class="number">M001</div></div>
 					</div>
 					<div class="excerpt">
@@ -129,7 +130,7 @@
 
 					</div>
 					<div class="meta">
-						<span class="user"><a href="#" id="111111">© By 老陶, </a></span>
+						<span class="user"><a href="#">© By 老陶, </a></span>
 						<!--<span class="comments" id="numm">000</span>-->
 						<p class="comments" id="noId"></p>
 						<!--<span class="tags"><a href="#">red</a>, <a href="#">cyan</a>, <a href="#">white</a>, <a href="#">blue</a></span>-->

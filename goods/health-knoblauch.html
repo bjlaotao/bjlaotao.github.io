@@ -6,8 +6,8 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8">
-	
-	<title>双心牌 大蒜精</title>
+
+	<title id="htmlTitle"></title>
 	<meta name="description" content="">
 	
 	<!-- Mobile viewport optimized: h5bp.com/viewport -->
@@ -44,8 +44,9 @@
 
 		function init() {
 			var param = getParameter("id");
-			document.getElementById("noId").innerHTML = param;
-//            alert(param)
+			var deparam = decodeURI(param)
+			document.getElementById("noId").innerHTML = deparam;
+			document.getElementById("htmlTitle").innerHTML = deparam;
 		}
 	</script>
 </head>
@@ -109,11 +110,11 @@
                         <script>
 
                         </script>
-                        <img src="../img/goods/beautiful/nuk-001-1-560*330.png" alt="Thumbnail" />
+                        <img src="../img/goods/dh-knoblauch/001.png" alt="Thumbnail" />
                         <p></p>
                         <br/>
-                        <img src="../img/goods/beautiful/nuk-001-2-560*330.png" alt="Thumbnail" />
-						<div class="entry-date"><div class="month">JAN</div><div class="number">23</div></div>
+                        <img src="../img/goods/dh-knoblauch/002.png" alt="Thumbnail" />
+						<div class="entry-date"><div class="month">No.</div><div class="number">H001</div></div>
 					</div>
 					<div class="excerpt">
 						<a href="single.html" class="post-heading" >产品描述和细节</a>
@@ -131,7 +132,7 @@
 
 					</div>
 					<div class="meta">
-						<span class="user"><a href="#" id="111111">© By 老陶, </a></span>
+						<span class="user"><a href="#">© By 老陶, </a></span>
 						<!--<span class="comments" id="numm">000</span>-->
 						<p class="comments" id="noId"></p>
 						<!--<span class="tags"><a href="#">red</a>, <a href="#">cyan</a>, <a href="#">white</a>, <a href="#">blue</a></span>-->
