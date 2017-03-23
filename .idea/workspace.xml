@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb6937f-8c15-42ef-a73a-8f83a940e156" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/goods/beautiful/nuk-001-1-560*330.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/goods/beautiful/nuk-001-2-560*330.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/goods/beautiful/nuk-001-430*500.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/goods/beautiful/totesMeerMaske-001.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/goods/beautiful/totesMeerMaske-002.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/goods/beautiful/totesMeerMaske430*500.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/flase001.html" afterPath="$PROJECT_DIR$/goods/flase001.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/flase001的副本 3.html" afterPath="$PROJECT_DIR$/goods/flase001的副本 3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/flase001的副本 4.html" afterPath="$PROJECT_DIR$/goods/flase001的副本 4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/flase001的副本 5.html" afterPath="$PROJECT_DIR$/goods/flase001的副本 5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/flase001的副本 6.html" afterPath="$PROJECT_DIR$/goods/flase001的副本 6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/flase001的副本.html" afterPath="$PROJECT_DIR$/goods/flase001的副本.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/health-knoblauch.html" afterPath="$PROJECT_DIR$/goods/health-knoblauch.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/maske001.html" afterPath="$PROJECT_DIR$/goods/maske001.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="ltshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,18 +40,18 @@
       <file leaf-file-name="maske001.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goods/maske001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.5294118">
-              <caret line="132" column="54" selection-start-line="132" selection-start-column="54" selection-end-line="132" selection-end-column="54" />
+            <state vertical-scroll-proportion="-3.235294">
+              <caret line="120" column="53" selection-start-line="120" selection-start-column="53" selection-end-line="120" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="health-knoblauch.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="health-knoblauch.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/goods/health-knoblauch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="116" column="100" selection-start-line="116" selection-start-column="100" selection-end-line="116" selection-end-column="100" />
+            <state vertical-scroll-proportion="0.2006689">
+              <caret line="114" column="29" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -113,18 +100,18 @@
       <file leaf-file-name="flase001.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goods/flase001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5882354">
+            <state vertical-scroll-proportion="-4.4117646">
               <caret line="116" column="100" selection-start-line="116" selection-start-column="100" selection-end-line="116" selection-end-column="100" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flase001的副本 3.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flase001的副本 3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goods/flase001的副本 3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36">
-              <caret line="114" column="29" selection-start-line="114" selection-start-column="29" selection-end-line="114" selection-end-column="29" />
+            <state vertical-scroll-proportion="-15.625">
+              <caret line="124" column="76" selection-start-line="124" selection-start-column="76" selection-end-line="124" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -171,14 +158,14 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/goods/maske001.html" />
         <option value="$PROJECT_DIR$/goods/flase001.html" />
-        <option value="$PROJECT_DIR$/goods/health-knoblauch.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本 6.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本 5.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本 4.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本 3.html" />
+        <option value="$PROJECT_DIR$/goods/maske001.html" />
+        <option value="$PROJECT_DIR$/goods/health-knoblauch.html" />
       </list>
     </option>
   </component>
@@ -188,7 +175,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="84" />
+    <option name="x" value="87" />
     <option name="y" value="23" />
     <option name="width" value="1076" />
     <option name="height" value="772" />
@@ -706,15 +693,15 @@
       <workItem from="1490209933047" duration="1413000" />
       <workItem from="1490211534333" duration="1272000" />
       <workItem from="1490212959453" duration="8460000" />
-      <workItem from="1490265966502" duration="3513000" />
+      <workItem from="1490265966502" duration="3959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21807000" />
+    <option name="totallyTimeSpent" value="22253000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="84" y="23" width="1076" height="772" extended-state="0" />
+    <frame x="87" y="23" width="1076" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1085,34 +1072,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goods/maske001.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.5294118">
-          <caret line="132" column="54" selection-start-line="132" selection-start-column="54" selection-end-line="132" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.647059">
           <caret line="121" column="62" selection-start-line="121" selection-start-column="62" selection-end-line="121" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goods/flase001.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5882354">
-          <caret line="116" column="100" selection-start-line="116" selection-start-column="100" selection-end-line="116" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goods/health-knoblauch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="116" column="100" selection-start-line="116" selection-start-column="100" selection-end-line="116" selection-end-column="100" />
           <folding />
         </state>
       </provider>
@@ -1151,8 +1114,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goods/flase001的副本 3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36">
-          <caret line="114" column="29" selection-start-line="114" selection-start-column="29" selection-end-line="114" selection-end-column="29" />
+        <state vertical-scroll-proportion="-15.625">
+          <caret line="124" column="76" selection-start-line="124" selection-start-column="76" selection-end-line="124" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/flase001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4117646">
+          <caret line="116" column="100" selection-start-line="116" selection-start-column="100" selection-end-line="116" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/maske001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.235294">
+          <caret line="120" column="53" selection-start-line="120" selection-start-column="53" selection-end-line="120" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/health-knoblauch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2006689">
+          <caret line="114" column="29" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="29" />
           <folding />
         </state>
       </provider>
