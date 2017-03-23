@@ -1,0 +1,356 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+
+	<title id="htmlTitle"></title>
+	<meta name="description" content="">
+	
+	<!-- Mobile viewport optimized: h5bp.com/viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	
+	<link rel="stylesheet" media="screen" href="../css/superfish.css" />
+	<link rel="stylesheet" href="../css/nivo-slider.css" media="all"  />
+	<link rel="stylesheet" href="../css/tweet.css" media="all"  />
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" media="all" href="../css/lessframework.css"/>
+	
+	
+	<!-- All JavaScript at the bottom, except this Modernizr build.
+	   Modernizr enables HTML5 elements & feature detects for optimal performance.
+	   Create your own custom Modernizr build: www.modernizr.com/download/ -->
+	<script src="../js/modernizr-2.5.3.min.js"></script>
+
+	<script language="javascript">
+		function getParameter(param) {
+			var query = window.location.search; //获取URL地址中 ? 后的所有字符
+			var iLen = param.length;    //获取你的参数名称长度
+			var iStart = query.indexOf(param);  //获取该参数名称的 索引
+			if (iStart == -1) {
+				return "商品";
+			}
+
+			iStart += iLen + 1;
+			var iEnd = query.indexOf("&", iStart); //获取第二个参数的其实索引
+			if(iEnd == -1) //只有一个参数
+				return query.substring(iStart); //获取单个参数的参数值
+
+			return query.substring(iStart, iEnd); //获取第二个参数的值
+		}
+
+		function init() {
+			var param = getParameter("id");
+			var deparam = decodeURI(param)
+			document.getElementById("noId").innerHTML = deparam;
+			document.getElementById("htmlTitle").innerHTML = deparam;
+		}
+	</script>
+</head>
+<body onload="init()">
+
+
+	<!-- HEADER -->
+
+	<header>
+
+		<!-- header wrapper -->
+		<div class="wrapper cf">
+			<div id="logo">
+				<a href="../index.html" ><img src="../img/logo.png" alt="" /></a>
+			</div>
+		</div><!-- ENDS header wrapper -->
+
+
+
+		<!-- nav -->
+		<nav class="cf">
+			<div class="wrapper cf">
+				<ul id="nav" class="sf-menu">
+					<li><a href="../index.html">首页<i><b></b></i></a></li>
+					<!--<li><a href="page.html">FEATURES<i><b></b></i></a>-->
+						<!--<ul>-->
+							<!--<li><a href="page.html">Columns</a></li>-->
+							<!--<li><a href="page-typography.html">Typography</a></li>-->
+							<!--<li><a href="page-elements.html">Elements</a></li>-->
+						<!--</ul>-->
+					<!--</li>-->
+					<!--<li class="current-menu-item"><a href="blog.html">BLOG<i><b></b></i></a></li>-->
+					<!--<li><a href="portfolio.html">WORK<i><b></b></i></a></li>-->
+					<li><a href="../contact.html">联系我<i><b></b></i></a></li>
+					<!--<li><a href="http://luiszuno.com/blog/downloads/vintage-html-template">DOWNLOAD NOW!<i><b></b></i></a></li>-->
+				</ul>
+				<div id="combo-holder"></div>
+			</div>
+		</nav>
+		<!-- ends nav -->
+
+	</header>
+	<!-- ENDS HEADER -->
+
+	<!--<div role="main" id="main">-->
+		<!---->
+	<!--</div>-->
+
+	<!-- MAIN -->
+	<div role="main" id="main">
+		<div class="wrapper cf">
+
+
+			<!-- posts list -->
+			<div id="posts-list" class="cf">
+
+				<article>
+					<div class="feature-image">
+						<!--<a href="single.html" ><img src="img/dummies/560x300c.jpg" alt="Thumbnail" /></a>-->
+
+                        <script>
+
+                        </script>
+						<img src="../img/goods/health-floradix-eisen/001.png" alt="Thumbnail" />
+                        <p></p>
+						<img src="../img/goods/health-floradix-eisen/002.png" alt="Thumbnail" />
+						<p></p>
+						<img src="../img/goods/health-floradix-eisen/003.png" alt="Thumbnail" />
+						<div class="entry-date"><div class="month">No.</div><div class="number">H001</div></div>
+					</div>
+					<div class="excerpt">
+						<a href="single.html" class="post-heading" >产品描述和细节</a>
+						<h3>作用</h3>
+						<p>
+							补气益血,缓解疲劳<br/>
+							补血补气补铁, 缓解经期不适,缓解疲劳补充体力,<br/>
+							改善睡眠质量,改善手脚凉等.
+						</p>
+						<!--<a href="https://www.rossmann.de/produkte/nuk/first-choice-starter-set-glas/4008600247623.html">物品官网</a>-->
+
+					</div>
+					<div class="meta">
+						<span class="user"><a href="#">© By 老陶, </a></span>
+						<!--<span class="comments" id="numm">000</span>-->
+						<p class="comments" id="noId"></p>
+						<!--<span class="tags"><a href="#">red</a>, <a href="#">cyan</a>, <a href="#">white</a>, <a href="#">blue</a></span>-->
+					</div>
+					<i class="tape"></i>
+				</article>
+
+
+		    </div>
+			<!-- ENDS posts list -->
+
+
+			<!-- sidebar -->
+        	<aside id="sidebar">
+
+        		<ul>
+
+
+	        		<li class="block">
+		        		<h4 class="heading">Sponsors</h4>
+						<div class="ads cf">
+							<a href="#"><img src="../img/dummies/themeforest.gif" alt="Thumbnail"></a>
+							<a href="#" class="last"><img src="../img/dummies/mojo.jpeg" alt="Thumbnail"></a>
+							<a href="#"><img src="../img/dummies/themeforest.gif" alt="Thumbnail"></a>
+							<a href="#" class="last"><img src="../img/dummies/mojo.jpeg" alt="Thumbnail"></a>
+						</div>
+	        		</li>
+
+					<li class="block">
+						<h4 class="heading">商品</h4>
+						<h5 class="goodsPrice">价格: ￥260.00</h5>
+
+						<p>信息</p>
+
+						<ul>
+							<li>
+								名称: FLORADIXIRON铁元草本滋补液
+							</li>
+							<li>
+								规格: 500ml
+							</li>
+							<li>
+								使用: 成人（含孕妇)儿童均可
+							</li>
+							<li>
+								成分:(/100ml) <br/>
+								Fe[81.76mg] &nbsp;Vc1[128mg]&nbsp; Vb1[8mg]<br/>
+								Vb2[29mg]&nbsp; Vb6[5mg]&nbsp; Vb12[6mg]
+							</li>
+							<li>
+								产品剂型: 口服液
+							</li>
+							<li>
+								蓝帽标识：营养膳食补充剂（非食健字）
+							</li>
+							<li>
+								本品不含防腐剂,请开盖后放在<p class="goodsPrice">冰箱中保存</p>
+							</li>
+							<li>
+								喝前摇一摇
+							</li>
+							<li>
+								开盖后4周内喝完
+							</li>
+							<li>
+								请不要直接对瓶吹,用量杯喝
+							</li>
+							<li>
+								由于铁元原料均来自SALUS的有机农场有机物,犹豫天气\季节\环境等因素,在口感和颜色上都会有一些差异,导致最后的产品铁元也会有一些差异,但不影响产品功效.
+							</li>
+							<li>
+								包装:绿瓶为药店装,红瓶为超市装.
+							</li>
+						</ul>
+
+						<h4 class="heading">Categories</h4>
+						<ul>
+							<!--<li class="cat-item"><a href="#" title="title">Film and video<span class="post-counter"> (2)</span></a></li>-->
+							<!--<li class="cat-item"><a href="#" title="title">Print<span class="post-counter"> (2)</span></a></li>-->
+							<!--<li class="cat-item"><a href="#" title="title">Photo and lomo<span class="post-counter"> (2)</span></a></li>-->
+							<!--<li class="cat-item"><a href="#" title="title">Habitant morbi<span class="post-counter"> (2)</span></a></li>-->
+							<!--<li class="cat-item"><a href="#" title="title">Film and video<span class="post-counter"> (2)</span></a></li>-->
+							<!--<li class="cat-item"><a href="#" title="title">Print<span class="post-counter"> (2)</span></a></li>-->
+							<!--<li class="cat-item"><a href="#" title="title">Photo and lomo<span class="post-counter"> (2)</span></a></li>-->
+							<!--<li class="cat-item"><a href="#" title="title">Habitant morbi<span class="post-counter"> (2)</span></a></li>-->
+						</ul>
+					</li>
+
+
+				</ul>
+
+        	</aside>
+			<!-- ENDS sidebar -->
+
+	  </div>
+	</div>
+	<!-- ENDS MAIN -->
+
+
+
+
+
+	<footer>
+
+		<!-- wrapper -->
+		<div class="wrapper cf">
+
+
+			<!-- social -->
+			<div class="sb-holder cf">
+				<ul id="social-bar" class="cf">
+					<li class="left-corner"><i></i></li>
+					<li><a href="http://www.facebook.com"  title="Become a fan" ><img src="../img/social/Facebook.png"  alt="Facebook" /></a></li>
+					<li><a href="http://www.twitter.com" title="Follow my tweets" ><img src="../img/social/Twitter.png"  alt="twitter" /></a></li>
+					<li><a href="http://www.google.com"  title="Add to the circle" ><img src="../img/social/Google+.png" alt="Google plus" /></a></li>
+					<li class="right-corner"><i></i></li>
+				</ul>
+
+
+			</div>
+			<!-- ENDS social -->
+
+
+			<!-- widgets -->
+			<ul  class="widget-cols cf">
+				<li class="first-col">
+
+					<div class="widget-block">
+						<h4>RECENT POSTS</h4>
+						<div class="recent-post cf">
+							<a href="#" class="thumb"><img src="../img/dummies/54x54.gif" alt="Post" /></a>
+							<div class="post-head">
+								<a href="#">Pellentesque habitant morbi senectus </a><span> March 12, 2011</span>
+							</div>
+						</div>
+						<div class="recent-post cf">
+							<a href="#" class="thumb"><img src="../img/dummies/54x54b.gif" alt="Post" /></a>
+							<div class="post-head">
+								<a href="#">Pellentesque habitant morbi senectus</a><span> March 12, 2011</span>
+							</div>
+						</div>
+						<div class="recent-post cf">
+							<a href="#" class="thumb"><img src="../img/dummies/54x54c.gif" alt="Post" /></a>
+							<div class="post-head">
+								<a href="#">Pellentesque habitant morbi senectus</a><span> March 12, 2011</span>
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="second-col">
+
+					<div class="widget-block">
+						<h4>ABOUT</h4>
+						<p>Vintage Template it's completely free this means you don't have to pay anything <a href="http://luiszuno.com/blog/license" >read license</a>.</p>
+
+						<p>Placeholder images by <a href="http://twistedfork.me/" >Dan Matutina</a></p>
+						<p>Visit <a href="http://templatecreme.com/" >Template Creme</a> and find the most beautiful free templates up to date.</p>					</div>
+
+				</li>
+
+				<li class="third-col">
+
+					<div class="widget-block">
+						<div id="tweets" class="footer-col tweet">
+		     				<h4>TWITTER WIDGET</h4>
+		     			</div>
+		     		</div>
+
+				</li>
+
+				<li class="fourth-col">
+
+					<div class="widget-block">
+						<h4>CATEGORIES</h4>
+						<ul>
+							<li class="cat-item"><a href="#" >Design</a></li>
+							<li class="cat-item"><a href="#" >Photo</a></li>
+							<li class="cat-item"><a href="#" >Art</a></li>
+							<li class="cat-item"><a href="#" >Game</a></li>
+							<li class="cat-item"><a href="#" >Film</a></li>
+							<li class="cat-item"><a href="#" >TV</a></li>
+						</ul>
+					</div>
+
+				</li>
+			</ul>
+			<!-- ENDS widgets -->
+
+
+			<div id="footer-bottom">老陶代购 designed by <a href="http://blog.devtao.com" >blog.devtao.com</a></div>
+
+
+		</div><!-- ENDS wrapper -->
+
+	</footer>
+
+
+	<!-- JavaScript at the bottom for fast page loading -->
+
+	<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="../js/jquery-1.7.1.min.js"><\/script>')</script>
+
+	<!-- scripts concatenated and minified via build script -->
+	<script src="../js/custom.js"></script>
+
+	<!-- superfish -->
+	<script  src="../js/superfish-1.4.8/js/hoverIntent.js"></script>
+	<script  src="../js/superfish-1.4.8/js/superfish.js"></script>
+	<script  src="../js/superfish-1.4.8/js/supersubs.js"></script>
+	<!-- ENDS superfish -->
+
+	<script src="../js/tweet/jquery.tweet.js" ></script>
+	<script src="../js/jquery.isotope.min.js"></script>
+	<script src="../js/jquery.nivo.slider.js" ></script>
+	<!--<script src="js/css3-mediaqueries.js"></script>-->
+	<script src="../js/tabs.js"></script>
+	<script  src="../js/poshytip-1.1/src/jquery.poshytip.min.js"></script>
+	<script src="../js/moveform.js"></script>
+	<!-- end scripts -->
+
+</body>
+</html>
