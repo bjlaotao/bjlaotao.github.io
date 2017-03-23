@@ -667,3 +667,7 @@ footer #footer-bottom {
 .widget-cols > li.fourth-col {
   margin-right: 0px;
 }
+
+.goodsPrice {
+  color: red;
+}
