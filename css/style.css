@@ -669,5 +669,6 @@ footer #footer-bottom {
 }
 
 .goodsPrice {
-  color: red;
+  color: #3200ff;
+  font-style: italic;
 }
