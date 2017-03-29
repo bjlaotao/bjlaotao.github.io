@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb6937f-8c15-42ef-a73a-8f83a940e156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/002.JPG" afterPath="$PROJECT_DIR$/img/working/001/002.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/003.JPG" afterPath="$PROJECT_DIR$/img/working/001/003.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/004.JPG" afterPath="$PROJECT_DIR$/img/working/001/004.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/005.JPG" afterPath="$PROJECT_DIR$/img/working/001/005.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/007.JPG" afterPath="$PROJECT_DIR$/img/working/001/007.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/008.JPG" afterPath="$PROJECT_DIR$/img/working/001/008.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/working001.html" afterPath="$PROJECT_DIR$/works/working001.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/006.JPG" afterPath="$PROJECT_DIR$/img/working/001/006.JPG" />
     </list>
     <ignored path="ltshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,8 +68,8 @@
       <file leaf-file-name="working001.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/working001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7344">
-              <caret line="132" column="60" selection-start-line="132" selection-start-column="60" selection-end-line="132" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.2304">
+              <caret line="111" column="31" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -688,12 +681,12 @@
       <workItem from="1490284986367" duration="232000" />
       <workItem from="1490730684371" duration="6159000" />
       <workItem from="1490807332072" duration="9311000" />
-      <workItem from="1490817736920" duration="192000" />
+      <workItem from="1490817736920" duration="292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49288000" />
+    <option name="totallyTimeSpent" value="49388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="114" y="23" width="1076" height="772" extended-state="0" />
@@ -1137,8 +1130,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works/working001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7344">
-          <caret line="132" column="60" selection-start-line="132" selection-start-column="60" selection-end-line="132" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.2304">
+          <caret line="111" column="31" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="31" />
           <folding />
         </state>
       </provider>
