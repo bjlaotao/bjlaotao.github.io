@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb6937f-8c15-42ef-a73a-8f83a940e156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/beautiful-footCompeed.html" afterPath="$PROJECT_DIR$/goods/beautiful-footCompeed.html" />
     </list>
     <ignored path="ltshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30100334">
-              <caret line="161" column="50" selection-start-line="161" selection-start-column="50" selection-end-line="161" selection-end-column="50" />
+            <state vertical-scroll-proportion="-10.294118">
+              <caret line="157" column="30" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="beautiful-footCompeed.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="beautiful-footCompeed.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/goods/beautiful-footCompeed.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.7647057">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.52675587">
+              <caret line="125" column="55" selection-start-line="125" selection-start-column="55" selection-end-line="125" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -125,8 +126,8 @@
         <option value="$PROJECT_DIR$/goods/modal的副本.html" />
         <option value="$PROJECT_DIR$/goods/health-floradix-eisendragees.html" />
         <option value="$PROJECT_DIR$/healthindex.html" />
-        <option value="$PROJECT_DIR$/goods/beautiful-footCompeed.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/goods/beautiful-footCompeed.html" />
       </list>
     </option>
   </component>
@@ -143,8 +144,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="152" />
-    <option name="y" value="74" />
+    <option name="x" value="109" />
+    <option name="y" value="23" />
     <option name="width" value="1076" />
     <option name="height" value="772" />
   </component>
@@ -664,15 +665,15 @@
       <workItem from="1490265966502" duration="15100000" />
       <workItem from="1490284986367" duration="232000" />
       <workItem from="1490730684371" duration="6159000" />
-      <workItem from="1490807332072" duration="8015000" />
+      <workItem from="1490807332072" duration="8305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47800000" />
+    <option name="totallyTimeSpent" value="48090000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="74" width="1076" height="772" extended-state="0" />
+    <frame x="109" y="23" width="1076" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1107,18 +1108,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goods/beautiful-footCompeed.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.7647057">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state vertical-scroll-proportion="-10.294118">
+          <caret line="157" column="30" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/goods/beautiful-footCompeed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30100334">
-          <caret line="161" column="50" selection-start-line="161" selection-start-column="50" selection-end-line="161" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.52675587">
+          <caret line="125" column="55" selection-start-line="125" selection-start-column="55" selection-end-line="125" selection-end-column="55" />
           <folding />
         </state>
       </provider>
