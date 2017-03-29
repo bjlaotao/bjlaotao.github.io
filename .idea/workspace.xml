@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb6937f-8c15-42ef-a73a-8f83a940e156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/002.JPG" afterPath="$PROJECT_DIR$/img/working/001/002.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/003.JPG" afterPath="$PROJECT_DIR$/img/working/001/003.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/004.JPG" afterPath="$PROJECT_DIR$/img/working/001/004.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/005.JPG" afterPath="$PROJECT_DIR$/img/working/001/005.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/007.JPG" afterPath="$PROJECT_DIR$/img/working/001/007.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/working/001/008.JPG" afterPath="$PROJECT_DIR$/img/working/001/008.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/working001.html" afterPath="$PROJECT_DIR$/works/working001.html" />
     </list>
     <ignored path="ltshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +35,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0588236">
+            <state vertical-scroll-proportion="0.0">
               <caret line="129" column="36" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
               <folding />
             </state>
@@ -38,7 +45,7 @@
       <file leaf-file-name="beautiful-footCompeed.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goods/beautiful-footCompeed.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5882354">
+            <state vertical-scroll-proportion="0.0">
               <caret line="123" column="37" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
               <folding />
             </state>
@@ -48,7 +55,7 @@
       <file leaf-file-name="otherindex.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/otherindex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.166667">
+            <state vertical-scroll-proportion="0.0">
               <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
               <folding />
             </state>
@@ -58,7 +65,7 @@
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.117647">
+            <state vertical-scroll-proportion="0.0">
               <caret line="82" column="54" selection-start-line="82" selection-start-column="54" selection-end-line="82" selection-end-column="54" />
               <folding />
             </state>
@@ -68,8 +75,8 @@
       <file leaf-file-name="working001.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/working001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69899666">
-              <caret line="191" column="28" selection-start-line="191" selection-start-column="28" selection-end-line="191" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.7344">
+              <caret line="132" column="60" selection-start-line="132" selection-start-column="60" selection-end-line="132" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -78,7 +85,7 @@
       <file leaf-file-name="healthindex.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/healthindex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.0833335">
+            <state vertical-scroll-proportion="0.0">
               <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
               <folding />
             </state>
@@ -173,7 +180,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="164" />
+    <option name="x" value="114" />
     <option name="y" value="23" />
     <option name="width" value="1076" />
     <option name="height" value="772" />
@@ -204,7 +211,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,6 +246,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -680,15 +687,16 @@
       <workItem from="1490265966502" duration="15100000" />
       <workItem from="1490284986367" duration="232000" />
       <workItem from="1490730684371" duration="6159000" />
-      <workItem from="1490807332072" duration="9291000" />
+      <workItem from="1490807332072" duration="9311000" />
+      <workItem from="1490817736920" duration="192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49076000" />
+    <option name="totallyTimeSpent" value="49288000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="23" width="1076" height="772" extended-state="0" />
+    <frame x="114" y="23" width="1076" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -697,7 +705,6 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2416357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -706,13 +713,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -858,9 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5555553">
           <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1024,7 +1028,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.875">
           <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1086,7 +1089,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/healthindex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0833335">
+        <state vertical-scroll-proportion="0.0">
           <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
           <folding />
         </state>
@@ -1102,7 +1105,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goods/beautiful-footCompeed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5882354">
+        <state vertical-scroll-proportion="0.0">
           <caret line="123" column="37" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
           <folding />
         </state>
@@ -1110,7 +1113,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/otherindex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.166667">
+        <state vertical-scroll-proportion="0.0">
           <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
           <folding />
         </state>
@@ -1118,7 +1121,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0588236">
+        <state vertical-scroll-proportion="0.0">
           <caret line="129" column="36" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
           <folding />
         </state>
@@ -1126,7 +1129,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.117647">
+        <state vertical-scroll-proportion="0.0">
           <caret line="82" column="54" selection-start-line="82" selection-start-column="54" selection-end-line="82" selection-end-column="54" />
           <folding />
         </state>
@@ -1134,8 +1137,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works/working001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69899666">
-          <caret line="191" column="28" selection-start-line="191" selection-start-column="28" selection-end-line="191" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.7344">
+          <caret line="132" column="60" selection-start-line="132" selection-start-column="60" selection-end-line="132" selection-end-column="60" />
           <folding />
         </state>
       </provider>
