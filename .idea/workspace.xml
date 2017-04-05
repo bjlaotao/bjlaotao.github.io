@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb6937f-8c15-42ef-a73a-8f83a940e156" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/goods/modal的副本.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/babyindex.html" afterPath="$PROJECT_DIR$/babyindex.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/baby-nukNipple.html" afterPath="$PROJECT_DIR$/goods/baby-nukNipple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="ltshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,81 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="129" column="36" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.52675587">
+              <caret line="169" column="17" selection-start-line="169" selection-start-column="17" selection-end-line="169" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="beautiful-footCompeed.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goods/beautiful-footCompeed.html">
+      <file leaf-file-name="beautiful-balea-effect.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goods/beautiful-balea-effect.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="123" column="37" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="otherindex.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/otherindex.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="82" column="54" selection-start-line="82" selection-start-column="54" selection-end-line="82" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="working001.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/working001.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.5">
-              <caret line="123" column="31" selection-start-line="123" selection-start-column="27" selection-end-line="123" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="babyindex.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/babyindex.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="104" column="44" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baby-nukNipple.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goods/baby-nukNipple.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.408">
-              <caret line="157" column="54" selection-start-line="157" selection-start-column="54" selection-end-line="157" selection-end-column="54" />
+            <state vertical-scroll-proportion="-14.375">
+              <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -138,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/single.html" />
         <option value="$PROJECT_DIR$/test02.html" />
         <option value="$PROJECT_DIR$/goods.html" />
         <option value="$PROJECT_DIR$/goods/goods.html" />
@@ -183,12 +122,13 @@
         <option value="$PROJECT_DIR$/goods/modal的副本.html" />
         <option value="$PROJECT_DIR$/goods/health-floradix-eisendragees.html" />
         <option value="$PROJECT_DIR$/healthindex.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/goods/beautiful-footCompeed.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/works/working001.html" />
         <option value="$PROJECT_DIR$/babyindex.html" />
         <option value="$PROJECT_DIR$/goods/baby-nukNipple.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/goods/beautiful-balea-effect.html" />
       </list>
     </option>
   </component>
@@ -205,7 +145,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
+    <option name="x" value="92" />
     <option name="y" value="23" />
     <option name="width" value="1076" />
     <option name="height" value="772" />
@@ -236,7 +176,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -270,8 +209,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ltshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ltshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goods" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -714,15 +668,16 @@
       <workItem from="1490730684371" duration="6159000" />
       <workItem from="1490807332072" duration="9311000" />
       <workItem from="1490817736920" duration="326000" />
-      <workItem from="1491250343354" duration="37000" />
+      <workItem from="1491250343354" duration="62000" />
+      <workItem from="1491424792978" duration="1988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49459000" />
+    <option name="totallyTimeSpent" value="51472000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="23" width="1076" height="772" extended-state="0" />
+    <frame x="92" y="23" width="1076" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -769,13 +724,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ltshop.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -908,7 +856,7 @@
         <state vertical-scroll-proportion="0.3466872">
           <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <marker date="1490809436000" expanded="true" signature="9570:9730" placeholder="..." />
             <marker date="1490809436000" expanded="true" signature="10266:10426" placeholder="..." />
             <marker date="1490809436000" expanded="true" signature="12000:12148" placeholder="..." />
@@ -1106,26 +1054,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goods/beautiful-footCompeed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="123" column="37" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/otherindex.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="129" column="36" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -1140,7 +1072,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works/working001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.5">
+        <state vertical-scroll-proportion="0.0">
           <caret line="123" column="31" selection-start-line="123" selection-start-column="27" selection-end-line="123" selection-end-column="31" />
           <folding />
         </state>
@@ -1156,7 +1088,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/babyindex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="104" column="44" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
           <folding />
         </state>
@@ -1164,8 +1096,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goods/baby-nukNipple.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.408">
-          <caret line="157" column="54" selection-start-line="157" selection-start-column="54" selection-end-line="157" selection-end-column="54" />
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/beautiful-footCompeed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024">
+          <caret line="123" column="37" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/beautiful-balea-effect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.375">
+          <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52675587">
+          <caret line="169" column="17" selection-start-line="169" selection-start-column="17" selection-end-line="169" selection-end-column="17" />
           <folding />
         </state>
       </provider>
