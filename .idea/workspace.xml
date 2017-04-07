@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb6937f-8c15-42ef-a73a-8f83a940e156" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/goods/modal的副本.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/health-doppel-vitamineaz.html" afterPath="$PROJECT_DIR$/goods/health-doppel-vitamineaz.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/modal.html" afterPath="$PROJECT_DIR$/goods/modal.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healthindex.html" afterPath="$PROJECT_DIR$/healthindex.html" />
     </list>
@@ -27,51 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.5294118">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="healthindex.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/healthindex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.0588236">
-              <caret line="134" column="55" selection-start-line="134" selection-start-column="55" selection-end-line="134" selection-end-column="55" />
+            <state vertical-scroll-proportion="-5.882353">
+              <caret line="143" column="81" selection-start-line="143" selection-start-column="81" selection-end-line="143" selection-end-column="81" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="health-doppel-weissdorn.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goods/health-doppel-weissdorn.html">
+      <file leaf-file-name="health-doppel-folsaeure.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goods/health-doppel-folsaeure.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75">
-              <caret line="160" column="41" selection-start-line="160" selection-start-column="41" selection-end-line="160" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="health-doppel-vitamineaz.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goods/health-doppel-vitamineaz.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2006689">
-              <caret line="166" column="49" selection-start-line="166" selection-start-column="49" selection-end-line="166" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="health-knoblauch.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goods/health-knoblauch.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.294117">
-              <caret line="177" column="12" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.216">
+              <caret line="150" column="37" selection-start-line="150" selection-start-column="37" selection-end-line="150" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -98,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/goods/flase001的副本 6.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本 5.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本 4.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本 3.html" />
@@ -146,9 +115,10 @@
         <option value="$PROJECT_DIR$/goods/health-knoblauch.html" />
         <option value="$PROJECT_DIR$/goods/health-doppel-weissdorn/health-doppel-weissdorn.html" />
         <option value="$PROJECT_DIR$/goods/health-doppel-weissdorn.html" />
-        <option value="$PROJECT_DIR$/healthindex.html" />
         <option value="$PROJECT_DIR$/goods/health-doppel-vitamineaz.html" />
         <option value="$PROJECT_DIR$/goods/modal.html" />
+        <option value="$PROJECT_DIR$/goods/health-doppel-folsaeure.html" />
+        <option value="$PROJECT_DIR$/healthindex.html" />
       </list>
     </option>
   </component>
@@ -165,7 +135,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="178" />
+    <option name="x" value="165" />
     <option name="y" value="23" />
     <option name="width" value="1076" />
     <option name="height" value="772" />
@@ -723,15 +693,15 @@
       <workItem from="1491250343354" duration="62000" />
       <workItem from="1491424792978" duration="2037000" />
       <workItem from="1491491559113" duration="131000" />
-      <workItem from="1491581037947" duration="4559000" />
+      <workItem from="1491581037947" duration="5287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56211000" />
+    <option name="totallyTimeSpent" value="56939000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="178" y="23" width="1076" height="772" extended-state="0" />
+    <frame x="165" y="23" width="1076" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -778,13 +748,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/isotope.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.296">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/elements.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.448">
@@ -1157,26 +1120,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/healthindex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0588236">
-          <caret line="134" column="55" selection-start-line="134" selection-start-column="55" selection-end-line="134" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goods/modal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75250834">
-          <caret line="178" column="0" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.625">
+          <caret line="176" column="75" selection-start-line="176" selection-start-column="75" selection-end-line="176" selection-end-column="75" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/goods/health-doppel-vitamineaz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2006689">
-          <caret line="166" column="49" selection-start-line="166" selection-start-column="49" selection-end-line="166" selection-end-column="49" />
+        <state vertical-scroll-proportion="-8.823529">
+          <caret line="179" column="44" selection-start-line="179" selection-start-column="44" selection-end-line="179" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/healthindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.882353">
+          <caret line="143" column="81" selection-start-line="143" selection-start-column="81" selection-end-line="143" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/health-doppel-folsaeure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.216">
+          <caret line="150" column="37" selection-start-line="150" selection-start-column="37" selection-end-line="150" selection-end-column="37" />
           <folding />
         </state>
       </provider>
