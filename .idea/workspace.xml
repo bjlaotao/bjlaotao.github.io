@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6eb6937f-8c15-42ef-a73a-8f83a940e156" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/baby-nukfirstchoice.html" afterPath="$PROJECT_DIR$/goods/baby-nukfirstchoice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/health-knoblauch.html" afterPath="$PROJECT_DIR$/goods/health-knoblauch.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/health-omega-3.html" afterPath="$PROJECT_DIR$/goods/health-omega-3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/babyindex.html" afterPath="$PROJECT_DIR$/babyindex.html" />
     </list>
     <ignored path="ltshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,51 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="healthindex.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/healthindex.html">
+      <file leaf-file-name="baby-apatamil.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goods/baby-apatamil.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="119" column="45" selection-start-line="119" selection-start-column="45" selection-end-line="119" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.44816053">
+              <caret line="165" column="54" selection-start-line="165" selection-start-column="54" selection-end-line="165" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="health-doppel-AugenVitalKapseln.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goods/health-doppel-AugenVitalKapseln.html">
+      <file leaf-file-name="babyindex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/babyindex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.0833335">
-              <caret line="209" column="8" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baby-nukfirstchoice.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goods/baby-nukfirstchoice.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5769231">
-              <caret line="166" column="49" selection-start-line="166" selection-start-column="49" selection-end-line="166" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="178" column="53" selection-start-line="178" selection-start-column="53" selection-end-line="178" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="beautiful-footCompeed.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goods/beautiful-footCompeed.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="163" column="43" selection-start-line="163" selection-start-column="43" selection-end-line="163" selection-end-column="43" />
+            <state vertical-scroll-proportion="-7.9411764">
+              <caret line="111" column="42" selection-start-line="111" selection-start-column="42" selection-end-line="111" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -99,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/goods/flase001的副本 5.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本 4.html" />
         <option value="$PROJECT_DIR$/goods/flase001的副本 3.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
@@ -126,7 +93,6 @@
         <option value="$PROJECT_DIR$/goods/health-floradix-eisendragees.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/works/working001.html" />
-        <option value="$PROJECT_DIR$/babyindex.html" />
         <option value="$PROJECT_DIR$/goods/baby-nukNipple.html" />
         <option value="$PROJECT_DIR$/goods/health-doppel-weissdorn/health-doppel-weissdorn.html" />
         <option value="$PROJECT_DIR$/goods/modal.html" />
@@ -150,6 +116,8 @@
         <option value="$PROJECT_DIR$/goods/health-omega-3.html" />
         <option value="$PROJECT_DIR$/goods/health-knoblauch.html" />
         <option value="$PROJECT_DIR$/goods/baby-nukfirstchoice.html" />
+        <option value="$PROJECT_DIR$/babyindex.html" />
+        <option value="$PROJECT_DIR$/goods/baby-apatamil.html" />
       </list>
     </option>
   </component>
@@ -166,7 +134,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
+    <option name="x" value="33" />
     <option name="y" value="23" />
     <option name="width" value="1158" />
     <option name="height" value="772" />
@@ -196,8 +164,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,67 +209,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ltshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ltshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goods" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ltshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ltshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goods" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beautiful-balea-nachtcream" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ltshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ltshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="goods" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -754,15 +668,16 @@
       <workItem from="1494517705578" duration="1210000" />
       <workItem from="1495609774604" duration="11000" />
       <workItem from="1495697886709" duration="1433000" />
-      <workItem from="1496410287715" duration="219000" />
+      <workItem from="1496410287715" duration="889000" />
+      <workItem from="1496914851599" duration="738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61528000" />
+    <option name="totallyTimeSpent" value="62936000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="23" width="1158" height="772" extended-state="0" />
+    <frame x="33" y="23" width="1158" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -809,13 +724,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/elements.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.448">
-          <caret line="397" column="24" selection-start-line="397" selection-start-column="24" selection-end-line="397" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/nivo-slider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="105.833336">
@@ -1018,13 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/babyindex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="104" column="44" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goods/baby-nukNipple.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.875">
@@ -1154,8 +1055,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goods/health-doppel-AugenVitalKapseln.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0833335">
+        <state vertical-scroll-proportion="0.0">
           <caret line="209" column="8" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/baby-nukfirstchoice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0833335">
+          <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1176,10 +1085,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goods/baby-nukfirstchoice.html">
+    <entry file="file://$PROJECT_DIR$/babyindex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769231">
-          <caret line="166" column="49" selection-start-line="166" selection-start-column="49" selection-end-line="166" selection-end-column="49" />
+        <state vertical-scroll-proportion="-7.9411764">
+          <caret line="111" column="42" selection-start-line="111" selection-start-column="42" selection-end-line="111" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/baby-apatamil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44816053">
+          <caret line="165" column="54" selection-start-line="165" selection-start-column="54" selection-end-line="165" selection-end-column="54" />
           <folding />
         </state>
       </provider>
