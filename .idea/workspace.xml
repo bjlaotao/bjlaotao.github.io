@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6eb6937f-8c15-42ef-a73a-8f83a940e156" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/babyindex.html" afterPath="$PROJECT_DIR$/babyindex.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/health-doppel-AugenVitalKapseln.html" afterPath="$PROJECT_DIR$/goods/health-doppel-AugenVitalKapseln.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goods/health-floradix-eisendragees.html" afterPath="$PROJECT_DIR$/goods/health-floradix-eisendragees.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healthindex.html" afterPath="$PROJECT_DIR$/healthindex.html" />
     </list>
     <ignored path="ltshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +28,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="baby-apatamil.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="baby-apatamil.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goods/baby-apatamil.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44816053">
-              <caret line="165" column="54" selection-start-line="165" selection-start-column="54" selection-end-line="165" selection-end-column="54" />
+            <state vertical-scroll-proportion="-97.5">
+              <caret line="156" column="16" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="babyindex.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/babyindex.html">
+      <file leaf-file-name="baby-squitofree.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goods/baby-squitofree.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.9411764">
-              <caret line="111" column="42" selection-start-line="111" selection-start-column="42" selection-end-line="111" selection-end-column="42" />
+            <state vertical-scroll-proportion="-21.25">
+              <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="health-doppel-AugenVitalKapseln.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goods/health-doppel-AugenVitalKapseln.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.7254902">
+              <caret line="172" column="32" selection-start-line="172" selection-start-column="32" selection-end-line="172" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="healthindex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/healthindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.0588236">
+              <caret line="151" column="71" selection-start-line="151" selection-start-column="71" selection-end-line="151" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="health-doppel-haut-haare-naegel.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goods/health-doppel-haut-haare-naegel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.47658864">
+              <caret line="173" column="77" selection-start-line="173" selection-start-column="77" selection-end-line="173" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -67,8 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/goods/flase001的副本 4.html" />
-        <option value="$PROJECT_DIR$/goods/flase001的副本 3.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/goods/modal的副本 6.html" />
         <option value="$PROJECT_DIR$/goods/modal的副本 7.html" />
@@ -90,13 +120,11 @@
         <option value="$PROJECT_DIR$/otherindex.html" />
         <option value="$PROJECT_DIR$/goods/other.html" />
         <option value="$PROJECT_DIR$/goods/modal的副本.html" />
-        <option value="$PROJECT_DIR$/goods/health-floradix-eisendragees.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/works/working001.html" />
         <option value="$PROJECT_DIR$/goods/baby-nukNipple.html" />
         <option value="$PROJECT_DIR$/goods/health-doppel-weissdorn/health-doppel-weissdorn.html" />
         <option value="$PROJECT_DIR$/goods/modal.html" />
-        <option value="$PROJECT_DIR$/goods/health-doppel-AugenVitalKapseln.html" />
         <option value="$PROJECT_DIR$/goods/health-altapharma.html" />
         <option value="$PROJECT_DIR$/goods/health-doppel-folsaeure.html" />
         <option value="$PROJECT_DIR$/goods/health-floradix-eisen.html" />
@@ -112,12 +140,16 @@
         <option value="$PROJECT_DIR$/goods/beautiful-balea-nachtcream.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/goods/beautiful-footCompeed.html" />
-        <option value="$PROJECT_DIR$/healthindex.html" />
         <option value="$PROJECT_DIR$/goods/health-omega-3.html" />
         <option value="$PROJECT_DIR$/goods/health-knoblauch.html" />
         <option value="$PROJECT_DIR$/goods/baby-nukfirstchoice.html" />
         <option value="$PROJECT_DIR$/babyindex.html" />
         <option value="$PROJECT_DIR$/goods/baby-apatamil.html" />
+        <option value="$PROJECT_DIR$/goods/baby-squitofree.html" />
+        <option value="$PROJECT_DIR$/goods/health-doppel-AugenVitalKapseln.html" />
+        <option value="$PROJECT_DIR$/goods/health-floradix-eisendragees.html" />
+        <option value="$PROJECT_DIR$/healthindex.html" />
+        <option value="$PROJECT_DIR$/goods/health-doppel-haut-haare-naegel.html" />
       </list>
     </option>
   </component>
@@ -134,7 +166,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="33" />
+    <option name="x" value="60" />
     <option name="y" value="23" />
     <option name="width" value="1158" />
     <option name="height" value="772" />
@@ -164,9 +196,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -669,15 +701,16 @@
       <workItem from="1495609774604" duration="11000" />
       <workItem from="1495697886709" duration="1433000" />
       <workItem from="1496410287715" duration="889000" />
-      <workItem from="1496914851599" duration="738000" />
+      <workItem from="1496914851599" duration="882000" />
+      <workItem from="1497768667775" duration="1868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62936000" />
+    <option name="totallyTimeSpent" value="64948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="23" width="1158" height="772" extended-state="0" />
+    <frame x="60" y="23" width="1158" height="772" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -724,20 +757,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/nivo-slider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="105.833336">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.0833335">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/widgets.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.544">
@@ -891,13 +910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goods/health-floradix-eisendragees.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4264214">
-          <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/otherindex.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1045,34 +1057,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/healthindex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="45" selection-start-line="119" selection-start-column="45" selection-end-line="119" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goods/health-doppel-AugenVitalKapseln.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="209" column="8" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goods/baby-nukfirstchoice.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.0833335">
           <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="178" column="53" selection-start-line="178" selection-start-column="53" selection-end-line="178" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -1085,18 +1073,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/goods/baby-apatamil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-97.5">
+          <caret line="156" column="16" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/baby-squitofree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.25">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="178" column="53" selection-start-line="178" selection-start-column="53" selection-end-line="178" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/healthindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0588236">
+          <caret line="151" column="71" selection-start-line="151" selection-start-column="71" selection-end-line="151" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/health-floradix-eisendragees.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.288">
+          <caret line="156" column="51" selection-start-line="156" selection-start-column="51" selection-end-line="156" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/health-doppel-AugenVitalKapseln.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7254902">
+          <caret line="172" column="32" selection-start-line="172" selection-start-column="32" selection-end-line="172" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/babyindex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.9411764">
+        <state vertical-scroll-proportion="0.024">
           <caret line="111" column="42" selection-start-line="111" selection-start-column="42" selection-end-line="111" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goods/baby-apatamil.html">
+    <entry file="file://$PROJECT_DIR$/goods/health-doppel-haut-haare-naegel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44816053">
-          <caret line="165" column="54" selection-start-line="165" selection-start-column="54" selection-end-line="165" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.47658864">
+          <caret line="173" column="77" selection-start-line="173" selection-start-column="77" selection-end-line="173" selection-end-column="77" />
           <folding />
         </state>
       </provider>
